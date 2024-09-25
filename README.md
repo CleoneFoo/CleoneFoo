@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Front End Development (Web)**
 
-- 🌱 I’m enhancing my skill in **React, Node.js**
+- 🌱 I’m enhancing my skill in **React & Node.js**
 
 - 📫 How to reach me **cleonefoo@gmail.com**
 
